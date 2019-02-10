@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(76): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bailey\desktop\cpp-tutorials\tutorial 1\task 2\task 2\source.cpp(75): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Task 2.vcxproj -> C:\Users\Bailey\Desktop\CPP-Tutorials\Tutorial 1\Task 2\Debug\Task 2.exe
