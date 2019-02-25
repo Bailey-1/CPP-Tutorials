@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\cpp-tutorials\tutorial 2\task 3\task 3\source.cpp(28): error C2664: 'void halfDouble(float *,float *,float *)': cannot convert argument 1 from 'float' to 'float *'
+f:\cpp-tutorials\tutorial 2\task 3\task 3\source.cpp(32): error C2296: '/': illegal, left operand has type 'float *'
+f:\cpp-tutorials\tutorial 2\task 3\task 3\source.cpp(33): error C2296: '*': illegal, left operand has type 'float *'

@@ -6,7 +6,6 @@ using std::cout;
 using std::endl;
 using std::string;
 
-
 // DECLARE structures
 
 struct Person_Info
