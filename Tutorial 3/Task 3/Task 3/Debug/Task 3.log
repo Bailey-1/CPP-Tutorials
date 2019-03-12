@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\bailey\desktop\cpp-tutorials\tutorial 3\task 3\task 3\source.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task 3.vcxproj -> C:\Users\Bailey\Desktop\CPP-Tutorials\Tutorial 3\Task 3\Debug\Task 3.exe
