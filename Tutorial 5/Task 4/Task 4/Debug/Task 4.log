@@ -1,0 +1,68 @@
+﻿  Car.cpp
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(41): error C2011: 'Car': 'class' type redefinition
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(3): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(5): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(5): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(7): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(15): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(16): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(18): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(19): error C3861: 'turnOnBrakeLight': identifier not found
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(27): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(31): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(33): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(35): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(43): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(43): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(45): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(45): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(46): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(46): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(48): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(50): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(51): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(52): error C2065: 'm_engine_size': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(53): error C2065: 'm_model': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(56): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(58): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(59): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(61): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(63): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(64): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(66): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(68): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(69): error C2065: 'm_engine_size': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(70): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(72): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(73): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(74): error C2065: 'm_engine_size': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(75): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(77): error C2027: use of undefined type 'Car'
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(78): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(79): error C2065: 'm_speed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(80): error C2065: 'm_topspeed': undeclared identifier
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.cpp(81): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+  Source.cpp
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(41): error C2011: 'Car': 'class' type redefinition
+  c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\car.h(7): note: see declaration of 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\source.cpp(14): error C2079: 'Garage::firstcar' uses undefined class 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\source.cpp(15): error C2079: 'Garage::secondcar' uses undefined class 'Car'
+c:\users\bailey\desktop\cpp-tutorials\tutorial 5\task 4\task 4\source.cpp(20): error C2079: 'myCar' uses undefined class 'Car'
+  Generating Code...

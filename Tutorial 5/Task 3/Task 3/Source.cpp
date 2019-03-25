@@ -24,8 +24,24 @@ int main()
 		carArray[i].SetSpeed(i * 10);
 	}
 
-
+	Car *myCar;
+	myCar = &carArray[2];
 	
+	for (int i = 3; i >= 0; i--)
+	{
+		cout << carArray[i].CurrentSpeed() << endl;
+	}
+
+	Car carArray[3];
+
+	for (int i = 0; i <= 3; i++)
+	{
+		carArray[i].SetSpeed(i * 10);
+		carArray[i].SetTopSpeed(carArray[i].CurrentSpeed()+50);
+		cout << carArray[i].CurrentSpeed() << endl;
+		cout << carArray[i].GetTopSpeed() << endl;
+	}
+
 	wait_for_keypress();
 }
 
