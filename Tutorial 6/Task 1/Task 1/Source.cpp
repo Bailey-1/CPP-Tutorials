@@ -11,7 +11,7 @@ void wait_for_keypress(void);
 
 struct carStruct {
 	Car car;
-	Car *pointerCar;
+	Car *pointerCar; 
 };
 
 int main()
