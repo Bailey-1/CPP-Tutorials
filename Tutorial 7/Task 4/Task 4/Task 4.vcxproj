@@ -115,11 +115,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="astronaut.h" />
     <ClInclude Include="person.h" />
+    <ClInclude Include="Rocket.h" />
+    <ClInclude Include="SpaceCraft.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="astronaut.cpp" />
     <ClCompile Include="person.cpp" />
+    <ClCompile Include="rocket.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="SpaceCraft.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
